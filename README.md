@@ -1,4 +1,4 @@
 CheckpointIntern
 ================
 
-This will perform the checkpoint of all intern.
+Testing GitHub with Inter-Group.
